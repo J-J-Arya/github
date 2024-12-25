@@ -1,2 +1,2 @@
 Second file created
-Second file modified in Website(This changes will not be visible in the vs code)
+Second file modified in Website(This changes will not be visible in the vs code before using the command 'git pull')
